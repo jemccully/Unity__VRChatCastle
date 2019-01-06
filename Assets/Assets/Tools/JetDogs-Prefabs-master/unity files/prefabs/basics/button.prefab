@@ -111,7 +111,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 70f6e3d3557461e4db37fefa118b6531, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -213,6 +213,17 @@ MonoBehaviour:
       ParameterObject: {fileID: 0}
       ParameterObjects: []
       ParameterBytes: 
+    - Name: 
+      EventType: 10
+      ParameterString: 
+      ParameterBoolOp: 2
+      ParameterBool: 0
+      ParameterFloat: 0
+      ParameterInt: 0
+      ParameterObject: {fileID: 0}
+      ParameterObjects:
+      - {fileID: 0}
+      ParameterBytes: 
     Name: Unnamed
     Others: []
     Key: 0
@@ -229,6 +240,10 @@ MonoBehaviour:
     Timer: 0
     DataElementIdx: 0
     DataStorageShadowValues:
+    - ParameterString: 
+      ParameterBoolOp: 
+      ParameterFloat: 
+      ParameterInt: 
     - ParameterString: 
       ParameterBoolOp: 
       ParameterFloat: 
