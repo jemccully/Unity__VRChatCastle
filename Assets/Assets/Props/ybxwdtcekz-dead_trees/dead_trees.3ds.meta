@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: a9b77309bf28fa449a0794033cc210f8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plum_Tre
+    100004: Walnut__
+    100006: Winter0
+    100008: Winter1
+    100010: Winter10
+    100012: Winter11
+    100014: Winter12
+    100016: Winter13
+    100018: Winter14
+    100020: Winter2
+    100022: Winter3
+    100024: Winter4
+    100026: Winter5
+    100028: Winter6
+    100030: Winter7
+    100032: Winter8
+    100034: Winter9
+    400000: //RootNode
+    400002: Plum_Tre
+    400004: Walnut__
+    400006: Winter0
+    400008: Winter1
+    400010: Winter10
+    400012: Winter11
+    400014: Winter12
+    400016: Winter13
+    400018: Winter14
+    400020: Winter2
+    400022: Winter3
+    400024: Winter4
+    400026: Winter5
+    400028: Winter6
+    400030: Winter7
+    400032: Winter8
+    400034: Winter9
+    2100000: Trunc__0
+    2100002: Trunc__1
+    2100004: Trunc_00
+    2100006: Trunc_01
+    2100008: Trunc_02
+    2100010: Roots0
+    2100012: Roots1
+    2100014: Roots2
+    2100016: Trunc_03
+    2100018: Trunc_04
+    2100020: Bark_Wal
+    2100022: Plum_Tre
+    2300000: Plum_Tre
+    2300002: Walnut__
+    2300004: Winter0
+    2300006: Winter1
+    2300008: Winter10
+    2300010: Winter11
+    2300012: Winter12
+    2300014: Winter13
+    2300016: Winter14
+    2300018: Winter2
+    2300020: Winter3
+    2300022: Winter4
+    2300024: Winter5
+    2300026: Winter6
+    2300028: Winter7
+    2300030: Winter8
+    2300032: Winter9
+    3300000: Plum_Tre
+    3300002: Walnut__
+    3300004: Winter0
+    3300006: Winter1
+    3300008: Winter10
+    3300010: Winter11
+    3300012: Winter12
+    3300014: Winter13
+    3300016: Winter14
+    3300018: Winter2
+    3300020: Winter3
+    3300022: Winter4
+    3300024: Winter5
+    3300026: Winter6
+    3300028: Winter7
+    3300030: Winter8
+    3300032: Winter9
+    4300000: Winter0
+    4300002: Winter1
+    4300004: Winter2
+    4300006: Winter3
+    4300008: Winter4
+    4300010: Winter5
+    4300012: Winter6
+    4300014: Winter7
+    4300016: Winter8
+    4300018: Winter9
+    4300020: Walnut__
+    4300022: Plum_Tre
+    4300024: Winter10
+    4300026: Winter11
+    4300028: Winter12
+    4300030: Winter13
+    4300032: Winter14
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
