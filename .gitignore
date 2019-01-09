@@ -24,6 +24,8 @@ ExportedObj/
 *.svd
 *.pdb
 
+# Lighting Data in Unity files are too large for git
+LightingData.asset
 
 # Unity3D generated meta files
 *.pidb.meta

@@ -100,8 +100,8 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       bloom:
-        intensity: 0.03
-        threshold: 1.1
+        intensity: 0.06
+        threshold: 0.83
         softKnee: 1
         radius: 2.41
         antiFlicker: 1
@@ -120,12 +120,12 @@ MonoBehaviour:
         neutralWhiteLevel: 5.3
         neutralWhiteClip: 10
       basic:
-        postExposure: 0.45
+        postExposure: 0.23
         temperature: -3
         tint: 0
         hueShift: 0
-        saturation: 1
-        contrast: 1
+        saturation: 1.11
+        contrast: 1.15
       channelMixer:
         red: {x: 1, y: 0, z: 0}
         green: {x: 0, y: 1, z: 0}
@@ -134,7 +134,7 @@ MonoBehaviour:
       colorWheels:
         mode: 1
         log:
-          slope: {r: 0.95615864, g: 0.9787703, b: 1, a: 0}
+          slope: {r: 0.997563, g: 1, b: 0.99512666, a: 0}
           power: {r: 0.9348615, g: 0.9877219, b: 1, a: 0}
           offset: {r: 1, g: 1, b: 1, a: 0}
         linear:
